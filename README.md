@@ -14,6 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Yogi0360&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yogi0360&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogi0360&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=yogi0360&icon=2&color=0)](https://visitcount.itsvg.in)
