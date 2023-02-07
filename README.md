@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Student from India</h3>
 
 # 💫 About Me:
-🧠  I’m currently learning C++<br><br>🚀  I'm currently working on [telegram bot](https://github.com/Yogi0360/tele-ce-bot)<br><br>✉️  You can contact me at [jalaym0360@gmail.com](mailto:jalaym0360@gmail.com)
+🧠  I’m currently learning C++ and Java<br><br>🚀  I'm currently working on [telegram bot](https://github.com/Yogi0360/tele-ce-bot)<br><br>✉️  You can contact me at [jalaym0360@gmail.com](mailto:jalaym0360@gmail.com)
 
 
 ## 🌐 Socials:
