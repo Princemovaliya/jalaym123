@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Student from India</h3>
 
 # 💫 About Me:
-🧠  I’m currently learning C++ and Java<br><br>🚀  I'm currently working on [telegram bot](https://github.com/Yogi0360/tele-ce-bot)<br><br>✉️  You can contact me at [jalaym0360@gmail.com](mailto:jalaym0360@gmail.com)
+🧠  I’m currently learning C++ and Java<br><br>🚀  I'm currently working on [telegram bot](https://github.com/jalaym123/tele-ce-bot)<br><br>✉️  You can contact me at [jalaym0360@gmail.com](mailto:jalaym0360@gmail.com)
 
 
 ## 🌐 Socials:
@@ -11,6 +11,6 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yogi0360&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yogi0360&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogi0360&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jalaym123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jalaym123&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jalaym123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
